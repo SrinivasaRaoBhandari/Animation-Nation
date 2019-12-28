@@ -1460,6 +1460,13 @@ let cards = [
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
 }
+{
+      artName: "Srinivasa Rao Bhandari",
+      pageLink: "./Art/SrinivasaRaoBhandari/index.html",
+      imageLink: "./Art/SrinivasaRaoBhandari/trance.gif",
+      author: "SrinivasaRaoBhandari",
+      githubLink: "https://github.com/SrinivasaRaoBhandari"
+    }
 ];
 
 // +--------------------------------------------------------------------------------+
